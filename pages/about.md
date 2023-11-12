@@ -8,26 +8,22 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+## About Let's Get Free
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+Let’s Get Free: The Women and Trans Prisoner Defense Committee is a group working to end Death by Incarceration (also known as life without parole sentencing), build a pathway out of the prisons back to our communities through commutation reform, support successful possibilities for people formerly and currently incarcerated, and shift to a culture of transformative justice.
+
+We prioritize working with women and trans prisoners, whose experiences are often left out in conversations about mass incarceration; we work to build relationships and community across prison walls; we are guided by  people in prison; we use art as an organizing tool; we educate to shift cultural understandings around harm, healing, and justice.
+
+[Learn more about Let's Get Free](https://lets-get-free.info).
+
+## About Creative Resistance
+
+Let’s Get Free’s Creative Resistance Committee organizes art shows, creates films, and publishes original writing and poetry by people in prison. They also work on the public service announcements, social media graphics, magazines, newsletters and all things creative. Let’s Get Free has used art as an organizing tool since it’s inception, working to raise awareness about excessive sentencing while prioritizing the voices of women and trans people in prison.
+
+This site only includes a subset of our creative imaginings!
+
+[See more at the Creative Resistance website](https://creative-resistance.org/)
 
 ## About CollectionBuilder CSV
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
-
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
-
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+This demo collection features items from Let's Get Free's 2023 art show, Picture A Free World. It's built using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
