@@ -1,6 +1,8 @@
 # Let's Get Free Collection built with CollectionBuilder-CSV
 
-This is an experimental digial collection site buit with [CollectionBuilder](https://collectionbuilder.github.io/cb-docs/): "CollectionBuilder-CSV is a robust and flexible "stand alone" template for creating digital collection and exhibit websites using Jekyll and a metadata CSV."
+This is an experimental digital collection site buit with [CollectionBuilder](https://collectionbuilder.github.io/cb-docs/): "CollectionBuilder-CSV is a robust and flexible "stand alone" template for creating digital collection and exhibit websites using Jekyll and a metadata CSV."
+
+Direct any questions about this collection or its corresponding website to **tricia@letsgetfree.info**.
 
 ## About CollectionBuilder 
 
